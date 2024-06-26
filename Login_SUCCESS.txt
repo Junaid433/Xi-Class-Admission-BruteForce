@@ -1,0 +1,8 @@
+
+
+[+] Credentials -> 2117829469:L8RX1D
+[+] Status -> 200 (Valid Credentials)
+[+] Response -> Success
+[+] Student -> JUNAID RAHMAN
+[+] College -> Mokbular Rahman Govt. College  Panchagarh
+
