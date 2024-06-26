@@ -18,11 +18,11 @@ College name and Student name will not be shown if login is sucessful and the us
 
 ## Support:
  
-  [Telegram](https://t.me/fakehecker)
+  [Telegram](https://t.me/fakehecker) -> https://t.me/fakehecker
 
-  [Facebook](https://facebook.com/jnaid.rahman.im)
+  [Facebook](https://facebook.com/jnaid.rahman.im) -> https://facebook.com/jnaid.rahman.im
 
-  Open issues on github
+  ### Open issues on github
 
 ## Donation:
 
